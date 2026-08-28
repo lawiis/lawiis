@@ -38,7 +38,7 @@ Someone who is crazy about Python.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lawiis&theme=dark&hide_border=true&background=0D0D0D&stroke=444444&ring=888888&fire=CCCCCC&currStreakLabel=CCCCCC" alt="Streak Stats" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lawiis&theme=dark&hide_border=true&background=0D0D0D&stroke=444444&ring=888888&fire=CCCCCC&currStreakLabel=CCCCCC" alt="Streak Stats" width="60%"/>
 
 </div>
 
