@@ -59,9 +59,3 @@ Someone who is crazy about Python.
 #### lowkey i like this one
 
 </div>
-
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lawiis&style=for-the-badge&color=1a1a1a" alt="profile views"/>
-</div>
